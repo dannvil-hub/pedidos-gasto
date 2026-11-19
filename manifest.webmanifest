@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Pedidos de gasto",
+  "short_name": "Pedidos",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "es-AR",
+  "background_color": "#eef1f6",
+  "theme_color": "#0f6b7a",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
